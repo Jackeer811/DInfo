@@ -11,7 +11,7 @@ $ ./Script.sh
 ```
 Ejemplo:
 
-![Figura #1](https://ibb.co/m5HSRhm)
+[![Screenshot-20210608-211226-Termux.jpg](https://i.postimg.cc/RCXHXPPX/Screenshot-20210608-211226-Termux.jpg)](https://postimg.cc/t7nJgzGx)
 
 ● Dinfo es un script escrito en bash que nos provee información basica de nuestro dispositivo mobile.
 
