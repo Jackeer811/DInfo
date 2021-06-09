@@ -9,6 +9,9 @@ $ cd DInfo
 $ chmod +x Script.sh
 $ ./Script.sh
 ```
+Ejemplo:
+
+![Figura #1](https://ibb.co/m5HSRhm)
 
 ● Dinfo es un script escrito en bash que nos provee información basica de nuestro dispositivo mobile.
 
