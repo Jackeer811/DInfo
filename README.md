@@ -2,7 +2,10 @@
 
 ```
 Instalación:
-Instalar la app termux-api en la play store : https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.termux.api%26hl%3Des_CO%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Dtermux-api%2Bplay%2Bstore&ved=2ahUKEwjglsuJgpHxAhWzSjABHeOfADAQFjABegQIBBAC&usg=AOvVaw3Vu-_-u6vG_mFIqUXGH_MX
+
+Instalar la app termux-api en la play store
+
+- En la terminal
 $ apt update && apt upgrade
 $ pkg install -y git
 $ git clone https://github.com/Jackeer811/DInfo
